@@ -2,3 +2,5 @@
 out
 0x00/example
 *.json
+0x00/size32
+0x00/size64

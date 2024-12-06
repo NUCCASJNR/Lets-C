@@ -1,2 +1,4 @@
 *.out
 out
+0x00/example
+*.json
